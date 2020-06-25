@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.syntax.class04.ScannerIfElseTasks.java&apos; to &apos;ScannerIfElseTask1.java&apos;&#x0D;&#x0A;- Original project: &apos;JavaBasics2020&apos;&#x0D;&#x0A;- Original element: &apos;com.syntax.class04.ScannerIfElseTasks.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.syntax.class04.ScannerIfElseTask1.java&apos;" description="Rename compilation unit &apos;ScannerIfElseTasks.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;com.syntax.class04{ScannerIfElseTasks.java" name="ScannerIfElseTask1.java" references="false" stamp="1592069930718" version="1.0"/>
+</session>

@@ -1,0 +1,51 @@
+package com.class2;
+
+public class PotatoChips {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		String name="Lays";
+		String category="potatoes";
+		boolean healthy=false;
+		byte items=29;
+		short callories=32767;
+		boolean squareForm=false;
+		char vitamines='C';
+		int phone=2114771291;
+		String sizePack="500grams";
+		long aminoachitess=12345678910l;
+		String experationDate="09232021";
+		String location="California";
+		String city="LosAngeles";
+		short zipCode=31657;
+		char deliveryDays='4';
+		boolean bbqFlavour=true;
+		
+		
+		System.out.println(name);
+		System.out.println(category);
+		System.out.println(healthy);
+		System.out.println(items);
+		System.out.println(callories);
+		System.out.println(squareForm);
+		System.out.println(vitamines);
+		System.out.println(phone);
+		System.out.println(sizePack);
+		System.out.println(aminoachitess);
+		System.out.println(experationDate);
+		System.out.println(location);
+		System.out.println(city);
+		System.out.println(zipCode);
+		System.out.println(deliveryDays);
+		System.out.println(bbqFlavour);
+		
+		
+				
+		
+		
+		
+
+	}
+
+}

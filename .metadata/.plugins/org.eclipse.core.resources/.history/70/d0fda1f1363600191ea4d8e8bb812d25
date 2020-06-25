@@ -1,0 +1,30 @@
+package com.class2;
+
+public class TaskArithmeticOperators1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		//1. Write a Java program to add, substract, multiply and divide 2 decimal values.
+		// your program should say: "The __ of 2 numbers __ and __ is equal to __".
+		
+		double g=78.8 ;
+		float  b= 2.2f; 
+		
+		double sum=g+b;
+		double sub=g-b;
+		double mult=g*b;
+		double div=g/b;
+		
+		System.out.println("The addition of 2 numbers " +g+ "" +b+ " is equal to " +sum);
+		System.out.println("The substraction of 2 numbers " +g+ " and " +b+ " is equal to " + sub);
+		System.out.println("The multiplication of 2 numbers " +g+ " and " +b+ " is equal to " +mult);
+		System.out.println("The division of 2 numbers " +g+ " and " +b+ " is equal to " +div);
+		
+		
+		
+		
+		
+	}
+
+}

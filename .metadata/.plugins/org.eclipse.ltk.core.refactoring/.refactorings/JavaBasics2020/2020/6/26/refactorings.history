@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.syntax.class13.Factory&apos; to &apos;CarFactory&apos;&#x0D;&#x0A;- Original project: &apos;JavaBasics2020&apos;&#x0D;&#x0A;- Original element: &apos;com.syntax.class13.Factory&apos;&#x0D;&#x0A;- Renamed element: &apos;com.syntax.class13.CarFactory&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Factory&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.syntax.class13{Factory.java[Factory" matchStrategy="1" name="CarFactory" qualified="false" references="true" similarDeclarations="false" stamp="1593128904997" textual="false" version="1.0"/>
+</session>

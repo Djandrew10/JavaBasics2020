@@ -11,6 +11,12 @@ public class CarFactory {
 		System.out.println("The make of our first car is " +car1.make + " and model is " +car1.model+
 				 " and it is in " + car1.color + " color");
 		
+		System.out.println("-----Accesing method from Car class using car1 ----");
+		car1.drive();  //-->name of the method
+		car1.reverse();
+		car1.transportPeople();
+		
+		
 		//building an object of the car
 		Car car2 = new Car();
 		car2.make = "BMW";
@@ -19,6 +25,10 @@ public class CarFactory {
 		car2.year = 2018;
 		car2.speed = 240;
 		System.out.println("The make of second car is " +car2.make);
+		System.out.println("-----Accesing method from Car class using car2 ----");
+		car2.drive();
+		car2.reverse();
+		car2.transportPeople();
 		
 		//new Bus(); compiler will give an error
 		//because we never created Bus class
@@ -30,6 +40,10 @@ public class CarFactory {
 		car3.year = 2017;
 		car3.speed = 200;
 		System.out.println("The make of fird car is " +car3.make);
+		System.out.println("-----Accesing method from Car class using car3 ----");
+		car3.drive();
+		car3.reverse();
+		car3.transportPeople();
 		
 		Car car4 = new Car();
 		car4.make = "Toyota";
@@ -38,6 +52,10 @@ public class CarFactory {
 		car4.year = 2010;
 		car4.speed = 210;
 		System.out.println("The make of forth car is " +car4.make);
+		System.out.println("-----Accesing method from Car class using car4 ----");
+		car4.drive();
+		car4.reverse();
+		car4.transportPeople();
 	}
 
 }

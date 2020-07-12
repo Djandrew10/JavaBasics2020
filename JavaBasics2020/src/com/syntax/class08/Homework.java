@@ -7,7 +7,7 @@ public class Homework {
 		// _____step 1 ___step 2 __step 4
 		for (int i = 100; i >= 1; i--) {
 			int j = 5;
-			Syst em.out.println(i); // step 3
+			System.out.println(i); // step 3
 		}
 
 		System.out.println("---Print numbers 1,2,3,---");

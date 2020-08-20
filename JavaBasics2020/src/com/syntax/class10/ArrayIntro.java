@@ -17,7 +17,7 @@ public class ArrayIntro {
 		numbers[1] = 15;
 		numbers[2] = 20;
 		numbers[3] = 25;
-		// this is wrong --> numbers[4]
+		// this is wro ng --> numbers[4]
 
 		// access elements from the array
 		System.out.println(numbers[3]);

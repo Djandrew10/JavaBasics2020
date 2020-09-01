@@ -24,7 +24,7 @@ public class DollarMagic {
 					}
 				}
 			}
-			System.out.println();
+			System.out.println();  
 		}
 
 	}

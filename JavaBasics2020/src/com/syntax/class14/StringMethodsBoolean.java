@@ -23,11 +23,11 @@ public class StringMethodsBoolean {
 		boolean starts = drink.startsWith("Welcome");
 		System.out.println(starts);
 		
+		//drink.startsWith('w'); CE: we need to check if it starts with specified String, cannot be just char
+		
 		System.out.println("-------------- .endsWith() method ------------------");
 		boolean ends = drink.endsWith("a");
 		System.out.println(ends);
-		
-		//drink.startsWith('w'); CE: we need to check if it starts with specified String, cannot be just char
 		
 		String str1 = "Hello Mohammed";
 		String str2 = "Hello Bulat";
@@ -38,7 +38,7 @@ public class StringMethodsBoolean {
 		System.out.println("-------------- .equals() method ------------------");
 		
 		String string1 = "Saturday";
-		String string2 = "suturday";
+		String string2 = "saturday";
 		
 		boolean equality = string1.contentEquals(string2);
 		System.out.println(equality);

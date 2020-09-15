@@ -27,10 +27,10 @@ public static void main(String[] args) {
 
 	str2.toUpperCase();// completely new String Object is getting created
 
-	System.out.println("Value of str2 if we did not assign it=" + str2);
+	System.out.println("Value of str2 if we did not assign it is = " + str2);
 	str2 = str2.toLowerCase();
-	System.out.println("Value of str2 after assignment=" + str2);
-	System.out.println("Value of str 3=" + str3);
-	System.out.println("Value of str 4=" + str4);
+	System.out.println("Value of str2 after assignment is = " + str2);
+	System.out.println("Value of str 3 is = " + str3);
+	System.out.println("Value of str 4 is = " + str4);
 }
 }
